@@ -1,0 +1,45 @@
+3
+
+cere, primum, si Plinius ut supra legitur scripserit, ueri aliquid rectique eum scripsisse,
+alterum, in reliquis coniecturis, quas alii protulerunt, contra esse, postremum, qui est codi-
+cum habitus quemadmodum existere potuerit ex illa Plinii scriptione quam pro uera recepi.
+Haec iam articulatim explicabo.
+
+ἢ Ι.
+
+Pecunia bene collocata usuras reddit, uinum in cella repositum non reddit, eaque diuer-
+sitas augescente quadam progressione tanto maiorem capit effectum, quanto diutius repo-
+situm hoc iacet, illa occupata est, tum praecipue quanto curiosius usuris pecuniae scsrs
+quotannis accumulatur. Inde ingentes pecuniae conficiuntur, mente quidem magis et cogi-
+tatione quam re, cum anatocismus uerbo facilius et iactatione quam re et facto per saecula
+continuetur3 sed ut proni sunt homines ad ingentia et ad ea, quae miraculi prodigiique
+aliquid habent, et diuitiarum studiosi uel commenticiarum, uetus est cauillatio quaedam
+(quae hodie quoque recurrere solet, in diariis praesertim , inter nouarum rerum penuriam),
+qua uina eximiae uetustatis tanta pecunia possessori constare finguntur, quantam nunc ha·
+beret, si pristinum uini pretium, quod nindemiae tempore fuit, in foenore collocasset, eam-
+que sortem usuris usurarumque usuris et deinceps nulla intercapedine intertrimentoue ad
+praesentem usque diem accumulasset. Atque illi cauillationi, quae, quamcunque habet iucun-
+ditatem, delectationem et elegantiam, certe sine cuiusquam fraude fit, etiam Plinium hoc
+loco operam dare manifestum est.
+
+Comparat pretium amphorae, quod uindemiae tempore fuit, cum pretio unciae, quod
+hodie post 160 annos, adhibita quam modo dixi fictione, existit.
+
+Non ambigitur, uini amphoram continere 80 libras, libram autem 12 uncias, eoque fieri
+ut uncia amphorae pars sit nongentesima sexagesima (ἧς).
+
+Ponit Plinius amphorae pretium (quod uindemiae tempore fuit) 100 sestertium, ponit
+usuras semisses, ponit denique annorum 160 decursum.
+
+Iam mediusfidius tota res in calculis est.
+
+Quaestio est: Summa 100 sestertium, annis 160 continuis, usura semisse, anatocismo
+anniuersario, multiplicata, quanta efficitur?
+
+Quaestionis formula arithmetica haec est:
+
+100 Χ (ᾖε-γα) = x.
+Procedamus lege artis ad solutionem.
+Euoluas, quaeso, logarithmum numeri 106.
+ρῆἓ
+
